@@ -1,3 +1,3 @@
 # blog-app
 
-Live Link : https://.herokuapp.com/
+Live Link : https://codersblogs.herokuapp.com/
